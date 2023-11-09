@@ -1,6 +1,10 @@
-# preparing-chicago-crime-data
+# Chicago-crime-data
  
-- This repo contains a notebook for processing Chiacgo Crime data into a repo-friendly format. 
-- To use this notebook: 
-    - either fork this repository to your own account, and then rename it to be someting like "Project-4"
-    - or download the notebook and save it in your own Project 4 repository.
+Source:https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data
+
+
+
+Tableau Dashboards and visualizations for data sourced from the Chicago Data Portal. 
+
+
+https://public.tableau.com/views/CrimesinChicago2/PrimaryDashboard-CrimesChicago?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
